@@ -1,3 +1,0 @@
-simon:my_pass
-john:password123
-blake:p@ssword
