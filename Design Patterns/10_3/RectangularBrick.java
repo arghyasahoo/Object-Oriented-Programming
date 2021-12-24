@@ -51,9 +51,6 @@ public class RectangularBrick implements Product {
 
     @Override
     public String toString() {
-        return "Brick type : Rectangle" +
-                "\nLength : " + length +
-                "\nBreadth : " + breadth +
-                "\nNumber of Bricks : " + quantity;
+        return "Brick type : Rectangular Brick";
     }
 }

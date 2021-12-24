@@ -47,8 +47,6 @@ public class CircularBrick implements Product {
 
     @Override
     public String toString() {
-        return "Brick type : Circle" +
-                "\nRadius : " + radius +
-                "\nNumber of Bricks : " + quantity;
+        return "Brick type : Circular Brick";
     }
 }

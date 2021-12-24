@@ -51,9 +51,6 @@ public class TriangularBrick implements Product {
 
     @Override
     public String toString() {
-        return "Brick type : Triangle" +
-                "\nHeight : " + height +
-                "\nBase : " + base +
-                "\nNumber of Bricks : " + quantity;
+        return "Brick type : Triangular Brick";
     }
 }
